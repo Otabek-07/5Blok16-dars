@@ -1,0 +1,18 @@
+
+.news-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgb(62, 149, 149);
+  }
+  
+  .loading,
+  .error {
+    color: #ff0; 
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
